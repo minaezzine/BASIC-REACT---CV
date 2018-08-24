@@ -1,0 +1,48 @@
+.bleu{
+  background-color: Teal;
+  height:1500px;
+ 
+
+}
+.white{
+  background-color: white;
+  height: 1500px;
+}
+h1{
+  color:white;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 30px;
+  text-align: center;
+}
+.img{
+margin-left:40px; 
+width: 150px;
+height:200px;
+
+
+}
+.carre {
+  height: 30px;
+  width: 25px;
+  background:rgba(0, 0, 0, 0.185);
+  width: 300px;
+  margin-left: -15px;
+  margin-top: 40px;
+}
+.p1{
+margin-left: 20px;
+text-align: left;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+color: white;
+
+}
+.pas{
+  color:Teal;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  text-align: left;
+  margin-bottom:-20px;
+  margin-top:-20px;
+
+}
