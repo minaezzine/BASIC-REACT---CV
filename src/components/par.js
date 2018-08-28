@@ -6,7 +6,7 @@ class Par extends Component{
         return(
    
         <div className="pas2">
-            <p>{this.props.des}</p>
+            <p>{this.props.val}</p>
             
                 
 				

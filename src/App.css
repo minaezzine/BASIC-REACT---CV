@@ -4,6 +4,14 @@
  
 
 }
+.boc{
+  display: inline-block;
+  width:40%;
+}
+.form-contact{
+  width: 40%;
+  height: 50px;
+}
 .white{
   background-color: white;
   height: 1500px;
